@@ -1,0 +1,11 @@
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\bin\Debug\PROYECTO_MRD.exe.config
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\bin\Debug\PROYECTO_MRD.exe
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\bin\Debug\PROYECTO_MRD.pdb
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.csproj.AssemblyReference.cache
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.Form1.resources
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.Form2.resources
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.Properties.Resources.resources
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.csproj.GenerateResource.cache
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.csproj.CoreCompileInputs.cache
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.exe
+C:\Users\cdmc2\OneDrive\Escritorio\TRABAJOS\fundamentos_programacion\PROYECTO_MRD\PROYECTO_MRD\obj\Debug\PROYECTO_MRD.pdb
